@@ -4,5 +4,8 @@
 
 Выполнил Егоров Иван
 ИС-09-24-1
+
+
 Who_i@0xdead.moscow
+
 0xdead.moscow
